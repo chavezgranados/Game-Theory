@@ -19,4 +19,4 @@ La asignatura pertenece al área curricular de especialidad, es de carácter ele
 Si tienes preguntas o sugerencias, puedes escribirme a: [josechavez@lamolina.edu.pe] o abrir un issue en este repositorio.
 
 ## 📜 Licencia
-Este curso está disponible bajo la licencia de Creative Commons. Puedes usar el material con la debida atribución y permiso.
+Este curso está disponible bajo la licencia de MIT License. Puedes usar el material con la debida atribución y permiso.
