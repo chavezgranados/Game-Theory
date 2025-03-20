@@ -1,3 +1,3 @@
-# Bienvenidos al curso! :-)
+# Bienvenidos al curso!
 
 *Curso dirigido a la USMP (PE)*
