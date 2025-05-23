@@ -4,8 +4,6 @@
 
 **Solución numérica:**
 
-# Mi código Python para encontrar la raíz
-
 ```python
 from scipy.optimize import root
 import numpy as np
