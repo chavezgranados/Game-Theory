@@ -4,6 +4,9 @@
 
 **Solución numérica:**
 
+# Mi código Python para encontrar la raíz
+
+```python
 from scipy.optimize import root
 import numpy as np
 
@@ -17,4 +20,6 @@ if solution.success:
   print(f"The value of a is approximately: {solution.x[0]}")
 else:
   print("Could not find a solution with the given initial guess.")
+
 solution.message
+
