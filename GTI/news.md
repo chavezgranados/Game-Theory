@@ -1,8 +1,8 @@
-# 📘 Recursos del curso:
-## 🔹 Aplicaciones del Equilibrio de Nash
+### 📘 Recursos del curso:
+### 🔹 Aplicaciones del Equilibrio de Nash
 https://towardsdatascience.com/applications-of-the-nash-equilibrium-5538be8dd443/
 
-## 🔹 Enlace para sesiones virtuales:
+### 🔹 Enlace para sesiones virtuales:
 [Ingresar](https://meet.google.com/ove-jcuy-vpk)
 
 Recomendaciones para ingresar:
