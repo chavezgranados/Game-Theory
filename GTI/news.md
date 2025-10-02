@@ -3,7 +3,7 @@
 https://towardsdatascience.com/applications-of-the-nash-equilibrium-5538be8dd443/
 
 ### 🔹 Enlace para sesiones virtuales:
-[Ingresar](https://meet.google.com/ove-jcuy-vpk)
+[Ingresar](https://meet.google.com/mja-odnq-hzw)
 
 Recomendaciones para ingresar:
 - 🔇 Apagar micrófono y cámara.
